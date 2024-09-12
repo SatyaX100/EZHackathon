@@ -1,0 +1,2 @@
+# EZHackathon
+AI blog generator
